@@ -12,8 +12,7 @@ My goal with this project was to create a beautiful mathematical pattern on a si
 
 
 ## How to Run:
-
-Test the creation of this model by clicking on the link below. This will bring you to the website, where the Mandelbrot Set is automatically created.
+Obviously, there are no dependencies when it comes to client-sided websites like these, where they're typically only made with HTML, CSS, and JS. Since this project was made only with HTML and JS, it is convenient to run this through a web browser, specifically through the link below. On this site I've made, the Mandelbrot Set is automatically created when a user loads into the page.
 
 [https://mandelbrot.jusmanov.repl.co/](url)
 
