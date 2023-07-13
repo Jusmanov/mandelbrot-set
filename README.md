@@ -1,6 +1,9 @@
 # mandelbrot-set
 Implemented the Mandelbrot Set on a blank website. The Mandelbrot Set is a fascinating mathematical model that uses the Mandelbrot algorithm to create a beautiful fractal effect. **Made with HTML and JS.**
 
+### Objective:
+My goal with this project was to create a beautiful mathematical pattern on a simple website. This pattern is, as mentioned already, called the Mandelbrot Set.
+
 ![image](https://github.com/Jusmanov/mandelbrot-set/assets/85308633/eb795d7c-e4e1-4eda-bb4f-8bcaca0b04ad)
 
 ![image](https://github.com/Jusmanov/mandelbrot-set/assets/85308633/ddf9f5f5-8827-4a37-b7d2-4f2b66c9282e)
@@ -8,7 +11,9 @@ Implemented the Mandelbrot Set on a blank website. The Mandelbrot Set is a fasci
 ![image](https://github.com/Jusmanov/mandelbrot-set/assets/85308633/e038b9a2-c4a8-409d-afa1-2100c6d1bc15)
 
 
-## Test it out:
+## How to Run:
+
+Test the creation of this model by clicking on the link below. This will bring you to the website, where the Mandelbrot Set is automatically created.
 
 [https://mandelbrot.jusmanov.repl.co/](url)
 
